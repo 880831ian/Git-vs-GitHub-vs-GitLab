@@ -76,7 +76,7 @@ Git可以把檔案的狀態作為更新歷史記錄保存起來。因此可以�
 
 
 
-#三個比較 Git vs GitHub vs GitLab
+# 三個比較 Git vs GitHub vs GitLab
 
 | 比較 |  Git  | GitHub | GitLab | 
 | :-: |  :-:  | :-: | :-: |
