@@ -1,4 +1,3 @@
-# Git-vs-GitHub-vs-GitLab
 # Git vs GitHub vs GitLab
 
 **資料來源（以下為筆記備份，版權歸以下作者所有）**
